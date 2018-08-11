@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "img-async": [
+        "projects/img-async/src"
+      ],
+      "img-async/*": [
+        "projects/img-async/src/*"
+      ]
+    }
   }
 }
